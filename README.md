@@ -1,7 +1,8 @@
 # kkdev-carsystem
 Documentation and Info
 
-Здесь будет документация
+Russian:
+https://github.com/Garikk/kkdev-carsystem/wiki/KKCar-car-computer-project
 
 
 ===============

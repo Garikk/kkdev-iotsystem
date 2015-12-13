@@ -2,7 +2,7 @@
 Documentation and Info
 
 Russian:
-https://github.com/Garikk/kkdev-carsystem/wiki/RU:KKCar-car-computer-project
+hhttps://github.com/Garikk/kkdev-carsystem/wiki
 
 
 ===============

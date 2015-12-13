@@ -2,7 +2,7 @@
 Documentation and Info
 
 Russian:
-hhttps://github.com/Garikk/kkdev-carsystem/wiki
+https://github.com/Garikk/kkdev-carsystem/wiki
 
 
 ===============

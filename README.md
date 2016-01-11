@@ -1,7 +1,6 @@
 # kkdev-carsystem
 Documentation and Info
 
-Russian:
 https://github.com/Garikk/kkdev-carsystem/wiki
 
 

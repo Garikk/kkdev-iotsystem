@@ -1,7 +1,7 @@
 # kkdev-carsystem
 Documentation and Info
 
-https://github.com/Garikk/kkdev-carsystem/wiki
+https://github.com/Garikk/kkdev-iotsystem/wiki
 
 
 ===============
